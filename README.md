@@ -1,2 +1,2 @@
 # rsschool-cv
-### https://avilateo.github.io/rsschool-cv/cv
+### https://AviLateo.github.io/rsschool-cv/cv
